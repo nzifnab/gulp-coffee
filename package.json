@@ -1,16 +1,16 @@
 {
-  "name": "gulp-coffee",
+  "name": "gulp-coffee2",
   "description": "Compile CoffeeScript files",
   "version": "2.3.4",
-  "homepage": "http://github.com/contra/gulp-coffee",
-  "repository": "git://github.com/contra/gulp-coffee.git",
+  "homepage": "http://github.com/nzifnab/gulp-coffee",
+  "repository": "git@github.com:nzifnab/gulp-coffee.git",
   "author": "Contra <yo@contra.io> (http://contra.io/)",
   "main": "./index.js",
   "keywords": [
     "gulpplugin"
   ],
   "dependencies": {
-    "coffee-script": "^1.10.0",
+    "coffeescript": "^2.0.0-beta1",
     "gulp-util": "^3.0.2",
     "merge": "^1.2.0",
     "through2": "^2.0.1",
